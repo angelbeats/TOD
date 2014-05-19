@@ -1,0 +1,23 @@
+{
+  "name": "tod",
+  "main": "views/index.html",
+  "single-instance": true,
+  "window": {
+    "title": "TOD",
+      "toolbar": false,
+      "frame": true,
+      "width": 1000,
+      "height": 800,
+      "position": "mouse",
+      "min_width": 400,
+      "min_height": 200,
+      "max_width": 8000,
+      "max_height": 8000,
+      "resizable":true,
+      "always-on-top":true,
+      "show":true,
+      "kiosk":true
+
+  },
+  "chromium-args": "--child-clean-exit"
+}

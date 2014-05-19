@@ -1,0 +1,13 @@
+{
+  "name": "package",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.2.16",
+    "threejs": "*",
+    "jasmine": "~2.0.0",
+    "requirejs": "~2.1.11",
+    "angular-latest": "~1.2.16",
+    "angular-route": "~1.2.16",
+    "requirejs-plugins": "~1.0.2"
+  }
+}
